@@ -7,6 +7,7 @@ An Android CRUD application for storing phone numbers and details of people with
 
 **Programming Language Used : JAVA and XML**
 
-Built in Android Studio
+Built in **Android Studio** using **SQLite Database**
 
-<img src="https://drive.google.com/file/d/1zeBnyCkNifmtn-MZ5WUBPjRDdMf9m5FI/view?usp=sharing" width="250" height="500">  <img src="https://drive.google.com/file/d/1zs9BTNw27xsCkSnQJtS9syK7knAk71LR/view?usp=sharing" width="250" height="500">  <img src="https://drive.google.com/file/d/1zoBJW_aUTESLkm8Y8wvHM-i9Hp7sX4Sl/view?usp=sharing" width="250" height="500">
+
+<img src="https://drive.google.com/uc?export=view&id=1zeBnyCkNifmtn-MZ5WUBPjRDdMf9m5FI" width="250" height="500">    <img src="https://drive.google.com/uc?export=view&id=1zs9BTNw27xsCkSnQJtS9syK7knAk71LR" width="250" height="500">    <img src="https://drive.google.com/uc?export=view&id=1zoBJW_aUTESLkm8Y8wvHM-i9Hp7sX4Sl" width="250" height="500">
